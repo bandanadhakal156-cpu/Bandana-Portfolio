@@ -1,15 +1,7 @@
 # Bandana Dhakal — Academic Portfolio
 
-Portfolio for physics research, scientific computing and household energy research.
+Static GitHub Pages website. Upload the **contents** of this folder (not the folder or ZIP itself) to the root of the `Bandana-Portfolio` repository on the `main` branch. In Settings → Pages select Deploy from a branch → main → /(root).
 
-## Website
-https://bandanadhakal156-cpu.github.io/Bandana-Portfolio/
+Photos: portrait.jpg; award-ceremony.jpg (cropped to exclude cheque details). The downloadable CV is in Word format.
 
-## Files
-- `index.html`: GitHub Pages website
-- `Bandana_Dhakal_CV.docx`: downloadable CV (original résumé)
-
-## Updating
-Upload all files into the repository root, replacing existing files with the same names. GitHub Pages uses the `main` branch and `/ (root)`.
-
-LinkedIn URL is taken from the supplied résumé; additional LinkedIn profile details were not independently retrieved.
+Education: BSc Physics completed in October 2026.
