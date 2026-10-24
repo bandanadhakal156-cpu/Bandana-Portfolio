@@ -1,27 +1,15 @@
-# Bandana Dhakal — Portfolio Website
+# Bandana Dhakal — Academic Portfolio
 
-A responsive, single-page academic portfolio for Bandana Dhakal, focused on physics, scientific computing, and household energy research.
+Portfolio for physics research, scientific computing and household energy research.
 
-## Preview locally
+## Website
+https://bandanadhakal156-cpu.github.io/Bandana-Portfolio/
 
-Open `index.html` in any browser. No installation required.
+## Files
+- `index.html`: GitHub Pages website
+- `Bandana_Dhakal_CV.docx`: downloadable CV (original résumé)
 
-## Publish free with GitHub Pages
+## Updating
+Upload all files into the repository root, replacing existing files with the same names. GitHub Pages uses the `main` branch and `/ (root)`.
 
-1. Sign in to GitHub and create a **public** repository named `bandana-portfolio` (or another name).
-2. Upload `index.html` and `README.md` to the repository root and commit them.
-3. Go to **Settings → Pages → Build and deployment**, select **Deploy from a branch**, choose `main` and `/ (root)`, then save.
-4. Your site will be available at `https://YOUR-USERNAME.github.io/bandana-portfolio/` after publishing.
-
-For a root domain `https://YOUR-USERNAME.github.io/`, name the repository `YOUR-USERNAME.github.io` instead.
-
-## Customize
-
-- Confirm the graduation date/status: the supplied résumé has inconsistent wording.
-- Add your real GitHub profile URL when you have one.
-- Add research code or paper links only when publicly available and permitted to share.
-- Update your contact details in `index.html` as needed.
-
-## Source
-
-Content adapted from the supplied Bandana Dhakal résumé. No GitHub account or repository has been created automatically.
+LinkedIn URL is taken from the supplied résumé; additional LinkedIn profile details were not independently retrieved.
